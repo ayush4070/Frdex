@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+*{
+    margin: 0px;
+    height: 0px;
+}
+.header{
+    background-color: #4d148c;
+    width: 1349px;
+    height: 75px;
+    display: flex;
+    
+    
+}
+a img{
+    width: 88px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 22px;
+    margin-left: 190px;
+    
+}
+ul a{
+    text-decoration: none;
+    color: white;
+    padding: 35px;
+    margin: -28px;
+    margin-left: 5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-family: roboto,sens-serif;
+    
+}
+ul li{
+    list-style: none;  
+   
+}
+.menu ul{
+    display: flex;
+
+}
+.menu1{
+    margin-top: 27px;
+}
+#sign{
+    margin-left: 210px;
+    margin: -28;
+    position: relative;
+    bottom: 10px;
+    font-size: 14px;
+}
+.logo1{
+    margin-top: 3px;
+}
+.fa-magnifying-glass{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    position: relative;
+    bottom: 6px;
+}
+
+body{
+    background-image: url("./assets (2)/asset\ 22.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner1{
+    width: 1349px;
+    height: 60px;
+    color: white;
+    font-size: 55px;
+    font-family: roboto,sans-serif;
+    margin: 0 0 10px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.box{
+    display: flex;
+    width: 474px;
+    height: 130px;
+    margin-left: 450px;
+    margin-top: 110px;
+}
+
+.box1{
+    width: 158px;
+    height: 120px;
+    background-color: white;
+    text-align: center;
+    
+}
+    
+
+.box2{
+    width: 158px;
+    height: 100px;
+    background-color: white;
+    padding: 35px 25px 15px;
+    background-color: #4d148c;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+.box3{
+    width: 158px;
+    height: 120px;
+    background-color: white;
+    text-align: center;
+}
+.tracker{
+    width: 940px;
+    height: 102px;
+    display: flex;
+}
+.tra1{
+    width: 437px;
+    height: 102px;
+    background-color: white;
+    position: relative;
+    top: 45px;
+    left: 400px;
+    height: 60px;
+}
+.tra1 h3{
+    margin-left: 30px;
+    margin-top: 15px;
+    
+    color: rgba(16, 6, 34, 0.918);
+}
+.tra2{
+    width: 145px;
+    height: 60px;
+    background-color: #ff6202;
+    position: relative;
+    left: 402px;
+    top: 45px;
+    
+}
+.tra2 h3{
+    text-align: center;
+    margin-top: 15px;
+}
+.t{
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 15px;
+    left: 400px;
+}
+.new{
+    width: 100%;
+    height: 50px;
+    margin-top: 90PX;
+    margin-left: 650px;
+    display: flex;
+    position: relative;
+    right:500px;
+
+    
+}
+.width{
+    width: 970px;
+    height: 202px;
+}
+.logo-state p{
+    font-size: 50px;
+    color: #4d148c;
+}
+.shipment a img{
+    width: 80px;
+    height: 80px;
+    margin: 60px;
+    }
